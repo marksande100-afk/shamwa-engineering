@@ -40,16 +40,16 @@ export function Footer() {
               </div>
             </div>
             <p className="text-background/70 mb-6 leading-relaxed">
-              Your trusted partner for comprehensive engineering, construction, and plumbing 
+              Your trusted partner for comprehensive engineering, construction, and plumbing
               services. Best Quality for Best Results.
             </p>
             <div className="space-y-3">
               <a
-                href="tel:+256745482359"
+                href="tel:+256702226199"
                 className="flex items-center gap-2 text-background/70 hover:text-accent transition-colors"
               >
                 <Phone className="h-4 w-4" />
-                <span>0745482359</span>
+                <span>0702 226 199 | 0785 482 389 | 0706 226 199</span>
               </a>
               <a
                 href="mailto:info@shamwaengineering.com"

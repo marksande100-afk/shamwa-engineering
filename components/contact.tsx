@@ -11,8 +11,8 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    details: ["0745482359", "0702226199"],
-    action: "tel:+256745482359",
+    details: ["0702 226 199", "0785 482 389", "0706 226 199"],
+    action: "tel:+256702226199",
   },
   {
     icon: Mail,
@@ -73,7 +73,7 @@ export function Contact() {
             Get In Touch With Us
           </h2>
           <p className="text-muted-foreground text-lg">
-            Ready to start your project? Contact us today for a free consultation 
+            Ready to start your project? Contact us today for a free consultation
             and quote. We&apos;re here to help bring your vision to life.
           </p>
         </div>

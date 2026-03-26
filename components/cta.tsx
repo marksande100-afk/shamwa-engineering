@@ -10,7 +10,7 @@ export function CTA() {
           Ready to Start Your Project?
         </h2>
         <p className="text-accent-foreground/80 text-lg max-w-2xl mx-auto mb-8">
-          Whether you need plumbing services, construction work, or quality building materials, 
+          Whether you need plumbing services, construction work, or quality building materials,
           we&apos;re here to help. Get in touch with us today for a free consultation.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -30,7 +30,7 @@ export function CTA() {
             variant="outline"
             className="bg-transparent border-accent-foreground text-accent-foreground hover:bg-accent-foreground/10 text-lg px-8"
           >
-            <a href="tel:+256745482359">
+            <a href="tel:+256702226199">
               <Phone className="mr-2 h-5 w-5" />
               Call Us Now
             </a>

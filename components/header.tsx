@@ -39,7 +39,7 @@ export function Header() {
             </div>
             <div className="flex items-center gap-2">
               <Phone className="h-4 w-4" />
-              <span>0745482359 | 0702226199</span>
+              <span>0702 226 199 | 0785 482 389 | 0706 226 199</span>
             </div>
           </div>
           <div className="text-sm italic">
@@ -95,7 +95,7 @@ export function Header() {
             {/* CTA Button */}
             <div className="hidden lg:block">
               <Button asChild className="bg-accent text-accent-foreground hover:bg-accent/90">
-                <a href="tel:+256745482359" className="flex items-center gap-2">
+                <a href="tel:+256702226199" className="flex items-center gap-2">
                   <Phone className="h-4 w-4" />
                   Call Now
                 </a>
@@ -132,7 +132,7 @@ export function Header() {
                 </Link>
               ))}
               <Button asChild className="bg-accent text-accent-foreground hover:bg-accent/90 mt-2">
-                <a href="tel:+256745482359" className="flex items-center gap-2">
+                <a href="tel:+256702226199" className="flex items-center gap-2">
                   <Phone className="h-4 w-4" />
                   Call Now
                 </a>
@@ -140,7 +140,7 @@ export function Header() {
               <div className="flex flex-col gap-2 text-sm text-muted-foreground mt-4">
                 <div className="flex items-center gap-2">
                   <Phone className="h-4 w-4" />
-                  <span>0745482359 | 0702226199</span>
+                  <span>0702 226 199 | 0785 482 389 | 0706 226 199</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <MapPin className="h-4 w-4" />
